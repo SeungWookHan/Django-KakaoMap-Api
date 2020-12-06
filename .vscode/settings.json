@@ -5,5 +5,7 @@
     "python.linting.flake8Args": [
         "--max-line-length=88"
     ],
-    "python.pythonPath": "/Users/Han/.local/share/virtualenvs/Django-KakaoMap-Api-OKtiWYtc/bin/python"
+    "python.pythonPath": "/Users/Han/.local/share/virtualenvs/Django-KakaoMap-Api-OKtiWYtc/bin/python",
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black"
 }
